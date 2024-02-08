@@ -1,6 +1,6 @@
 ## 은행 창구 관리 앱
 
-**프로젝트 진행자: Jin  @wlsdud-dev, Loffy** @kimdj1102
+**프로젝트 진행자: Jin @wlsdud-dev, Loffy** @kimdj1102
 
 **리뷰어: 다나** @songda515
 
